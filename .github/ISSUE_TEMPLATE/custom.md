@@ -17,7 +17,7 @@ assignees: []
 ---
 
 ## 👥 참석자
-- @user1
+- @munjanggon
 - @user2
 - @user3
 - @user4
