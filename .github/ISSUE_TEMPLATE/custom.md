@@ -1,9 +1,10 @@
 ---
-name: "📝 Daily Scrum"
-about: "일일 스크럼 회의록 작성용 템플릿"
+name: "\U0001F4DD Daily Scrum"
+about: 일일 스크럼 회의록 작성용 템플릿
 title: "[Scrum] YYYY.MM.DD"
-labels: ["scrum", "daily"]
-assignees: []
+labels: ''
+assignees: ''
+
 ---
 
 ## 👥 참석자
