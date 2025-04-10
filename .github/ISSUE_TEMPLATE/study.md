@@ -1,6 +1,6 @@
 ---
-name: Study_template
-about: Suggest an idea for this project
+name: Study
+about: Study 템플릿
 title: ''
 labels: ''
 assignees: ''
