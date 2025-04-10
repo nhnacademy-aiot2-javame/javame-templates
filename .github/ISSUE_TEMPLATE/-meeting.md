@@ -17,31 +17,31 @@ assignees: ''
 ---
 
 ## 👥 참석자
-- @hso03 
-- @Moon-janggon 
-- @JiwonLee-2 
-- @InSeong23 
-- @jangwonseong 
-- @saumonrose08 
-- @ygw1026 
+- @hso03 [오성현] 
+- @Moon-janggon [문장곤] 
+- @JiwonLee-2 [이지원]
+- @InSeong23 [임성인]
+- @jangwonseong [성장원] 
+- @saumonrose08 [정지연] 
+- @ygw1026 [윤기원] 
 
 ---
 
-## ✅ 어제 한 일 (What I did yesterday)
+## ✅ 어제 한 일
 
 | 이름 | 내용 |
 |------|------|
-| @hso03 | - |
-| @Moon-janggon  | - |
-| @JiwonLee-2 | - |
-| @InSeong23 | - |
-| @jangwonseong | - |
-| @saumonrose08 | - |
-| @ygw1026  | - |
+| @hso03 [오성현] | - |
+| @Moon-janggon [문장곤]  | - |
+| @JiwonLee-2 [이지원] | - |
+| @InSeong23 [임성인] | - |
+| @jangwonseong [성장원] | - |
+| @saumonrose08 [정지연] | - |
+| @ygw1026 [윤기원]  | - |
 
 ---
 
-## 📌 오늘 할 일 (What I’ll do today)
+## 📌 오늘 할 일
 
 | 이름 | 내용 |
 |------|------|
