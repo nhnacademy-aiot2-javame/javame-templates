@@ -2,7 +2,7 @@
 name: "\U0001F5EAMeeting"
 about: 회의록 템플릿
 title: ''
-labels: ''
+labels: meeting
 assignees: ''
 
 ---

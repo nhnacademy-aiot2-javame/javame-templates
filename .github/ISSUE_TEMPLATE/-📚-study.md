@@ -2,7 +2,7 @@
 name: " \U0001F4DA Study"
 about: Study 템플릿
 title: ''
-labels: ''
+labels: study
 assignees: ''
 
 ---

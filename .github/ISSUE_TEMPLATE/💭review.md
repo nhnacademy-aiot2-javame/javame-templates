@@ -2,7 +2,7 @@
 name: "\U0001F4ADReview"
 about: '회고 기록용 템플릿 '
 title: ''
-labels: ''
+labels: review
 assignees: ''
 
 ---
